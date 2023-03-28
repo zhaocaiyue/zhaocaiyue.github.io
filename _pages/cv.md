@@ -28,7 +28,7 @@ Work experience
 * Jul., 2022 to Mar. 2023: Research Assistant
   * HKUST
   * Duties included: Implement reinforcement learning algorithms for order matching and vehicle scheduling.
-  * Supervisor: Prof. Haiyang and Dr. Jintao Ke
+  * Supervisor: Prof. Hai Yang and Dr. Jintao Ke
 
 * Jan., 2022 to Jun. 2022: Research Assistant
   * HKU
