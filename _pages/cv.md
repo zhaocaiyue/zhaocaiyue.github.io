@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Nankai University, 2021
+* M.S. in Computer Science, The University of Hong Kong, 2022
+* Ph.D in Traffic and Transportation Engineering, The University of Hong Kong, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. to March 2023: Algorithm Engineer Intern
+  * Huawei 2012 Laboratory Riemann Laboratory
+  * Duties included: Conduct research on ETA and EV's consumption prediction.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul. to Nov. 2022: Algorithm Engineer Intern
+  * Didi Chuxing
+  * Duties included: Research on remote Fault Diagnosis of new energy electric vehicles.
+
+* Jul., 2022 to Mar. 2023: Research Assistant
+  * HKUST
+  * Duties included: Implement reinforcement learning algorithms for order matching and vehicle scheduling.
+  * Supervisor: Prof. Haiyang and Dr. Jintao Ke
+
+* Jan., 2022 to Jun. 2022: Research Assistant
+  * HKU
+  * Duties included: Develop simulators.
+  * Supervisor: Dr. Jintao Ke
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
