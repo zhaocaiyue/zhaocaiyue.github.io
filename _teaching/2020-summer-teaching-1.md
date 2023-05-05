@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Advanced language programming training"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autum-teaching-1
@@ -8,7 +8,10 @@ date: 2020-07-01
 location: "Tianjin, China"
 ---
 
-
-Advanced language programming training
+Description
 ======
 Software Development Using C++ and Visual Component QT.
+
+Duty
+======
+Guide the computer experiment, and judge the paper at the end of the period.
