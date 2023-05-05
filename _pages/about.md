@@ -39,6 +39,8 @@ Work experience
   * Duties included: Develop simulators.
   * Supervisor: Dr. Jintao Ke
 
+Publications
+======
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
