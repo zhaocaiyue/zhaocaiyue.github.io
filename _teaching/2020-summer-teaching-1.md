@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
@@ -7,7 +7,6 @@ venue: "Nankai University, Department of Software Engineering"
 date: 2020-07-01
 location: "Tianjin, China"
 ---
-
 
 
 Advanced language programming training
