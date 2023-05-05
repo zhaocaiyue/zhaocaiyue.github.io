@@ -38,3 +38,7 @@ Work experience
   * HKU
   * Duties included: Develop simulators.
   * Supervisor: Dr. Jintao Ke
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
