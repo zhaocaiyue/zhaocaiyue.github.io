@@ -11,29 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Nankai University, 2021
-* M.S. in Computer Science, The University of Hong Kong, 2022
+* B.S. in Logistics Engineering, Shanghai Maritime University, 2020
+* M.S. in Management Science and Engineering, Tsinghua University, 2023
 * Ph.D in Traffic and Transportation Engineering, The University of Hong Kong, 2027 (expected)
 
 Work experience
 ======
-* Jan. to March 2023: Algorithm Engineer Intern
-  * Huawei 2012 Laboratory Riemann Laboratory
-  * Duties included: Conduct research on ETA and EV's consumption prediction.
 
-* Jul. to Nov. 2022: Algorithm Engineer Intern
-  * Didi Chuxing
-  * Duties included: Research on remote Fault Diagnosis of new energy electric vehicles.
-
-* Jul., 2022 to Mar. 2023: Research Assistant
-  * HKUST
-  * Duties included: Implement reinforcement learning algorithms for order matching and vehicle scheduling.
-  * Supervisor: Prof. Hai Yang and Dr. Jintao Ke
-
-* Jan., 2022 to Jun. 2022: Research Assistant
-  * HKU
-  * Duties included: Develop simulators.
-  * Supervisor: Dr. Jintao Ke
   
 
 
