@@ -17,11 +17,11 @@ Education
 ======
 * The University of Hong Kong, Department of Civil Engineering, PhD. Transportation Engineering, 2023-Present
   
-Supervisor: Dr. Jintao Ke, University of Hong Kong         
+     Supervisor: Dr. Jintao Ke, University of Hong Kong         
 
 * Tsinghua University, Tsinghua Berkeley Shenzhen Institute, M.S. Management Science and Engineering, 2023
   
-Supervisor: Prof. Wai Kin (Victor) Chan, Tsinghua University 
+     Supervisor: Prof. Wai Kin (Victor) Chan, Tsinghua University 
 
 * Shanghai Maritime University, School of Logistics Engineering, B.S. logistics engineering, 2020 
 
