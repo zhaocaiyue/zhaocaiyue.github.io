@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Jiguang(王基光）"
+title                    : "Jiguang WANG (王基光）"
 title_separator          : "-"
-name                     : &name "Wang Jiguang(王基光）"
+name                     : &name "Jiguang WANG (王基光）"
 description              : &description "Ph.D. student at The University of Hong Kong"
-url                      : https://chentaijie98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangjg2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jwangjg2020/wangjg2020.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Jiguang(王基光）"
+  name             : "Jiguang Wang (王基光）"
   avatar           : "pictureJGWANG.jpg"
   bio              : "Ph.D. student at The University of Hong Kong"
   location         : "Hong Kong,SAR"
