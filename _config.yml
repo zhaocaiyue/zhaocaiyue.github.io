@@ -13,7 +13,7 @@ name                     : &name "Wang Jiguang(王基光）"
 description              : &description "Ph.D. student at The University of Hong Kong"
 url                      : https://chentaijie98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiguangWang/JiguangWang.github.io"
+repository               : "Jwangjg2020/wangjg2020.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
