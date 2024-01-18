@@ -1,1 +1,10 @@
+---
+title: "End-to-end Optimization for a Compact Optical Neural Network Based on Nanostructured 2× 2 Optical Processors"
+collection: publications
+date: 2023-08-29
+venue: 'IEEE Photonics Journal'
+citation: 'Zhao, C., Wang, J., Mao, S., Liu, X., Kin, W., Chan, V., & Fu, H. Y. (2023). End-to-end Optimization for a Compact Optical Neural Network Based on Nanostructured 2× 2 Optical Processors. IEEE Photonics Journal.'
+---
 
+### Abstract
+Recent research in silicon photonic chips has made huge progress in optical computing owing to their high speed, small footprint, and low energy consumption. Here, we employ nanostructured 2 × 2 optical processors in an optical neural network for implementing a binary classification task efficiently. The proposed optical neural network is composed of five linear layers including ten optical processors in each layer, and nonlinear activation functions. 2 × 2 optical processors are designed based on digitized meta-structures which have an extremely compact footprint of 1.6 × 4 μm 2 . A brand-new end-to-end design strategy based on Deep Q-Network is proposed to optimize the optical neural network for classifying a generated ring data set with better generalization, robustness, and operability. A high-efficient transfer matrix multiplication method is applied to simplify the calculation process in traditional optical software. Our numerical results illustrate that the maximum and mean accuracy on the testing data set can reach 90.5% and 87.8%, respectively. The demonstrated optical processors with a significantly compact area, and the efficient optimization method exhibit high potential for large-scale integration of whole-passive optical neural network on a photonic chip.
