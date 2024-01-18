@@ -1,17 +1,15 @@
 ---
-title: "Advanced language programming training"
+title: "ENGG1320 ENGINEERS IN THE MODERN WORLD"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autum-teaching-1
-venue: "Nankai University, Department of Software Engineering"
-date: 2020-07-01
-location: "Tianjin, China"
+venue: "University of HongKong, Department of Civil Engineering"
+date: 2023-10
+location: "HongKong, China"
 ---
 
 Description
 ======
-Software Development Using C++ and Visual Component QT.
+teaching assistant 
 
-Duty
-======
-Guide the computer experiment, and judge the paper at the end of the period.
+
