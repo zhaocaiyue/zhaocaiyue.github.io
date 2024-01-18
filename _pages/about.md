@@ -32,10 +32,3 @@ Work experience
   * Duties included: Conduct research on traffic pattern recognition and prediction
 
 
-Publications
-======
-{% for post in site.publications reversed %}
-
-{% include archive-single.html %}
-
-{% endfor %}
