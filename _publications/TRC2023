@@ -1,1 +1,10 @@
+---
+title: "A Two-stage Learning-based method for Large-scale On-demand pickup and delivery services with soft time windows"
+collection: publications
+date: 2023-06-01
+venue: 'Transportation Research Part C: Emerging Technologies'
+citation: 'Zhang, K., Li, M., Wang, J., Li, Y., & Lin, X. (2023). A Two-stage Learning-based method for Large-scale On-demand pickup and delivery services with soft time windows. Transportation Research Part C: Emerging Technologies, 151, 104122.'
+---
 
+### Abstract
+With the rapid growth of the on-demand logistics industry, large-scale pickup and delivery with soft time windows has become widespread in various time-critical scenarios. This problem has proven to be an NP-hard problem. Hence, the computation time and resources required to solve it increase exponentially with the growth of size. As a result, it is burdensome for the exact algorithm and heuristic method to generate a high-quality solution instantly. Machine learning seems to be a possible option due to the advantage of offline training. However, it is difficult to solve large-scale problems due to the lengthy training time, heavy computational cost, and training instability. Thus, this paper proposes the two-stage learning-based method composed of the clustering stage and the routing stage to tackle this problem. The clustering stage builds upon the attention mechanism by introducing graph convolutional network to the input, which can keep the match of pickup and paired delivery customers and classify them into different vehicles, while the routing stage adopts a well-trained model to generate a route for each capacitated vehicle. Furthermore, the well-trained model is utilized to train another problem inspired by transfer learning. Experiments show that the model, trained on small-scale problems, generalizes well to larger-scale problems, and achieves superior performance compared with the heuristic method and Google OR-Tools, with an extremely short computing time. In addition, the favorable transferability of this model is verified through contrast experiment, which can save a significant amount of training time.
