@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Jiguang WANG is a Ph.D. student in traffic and transportation engineering at The University of Hong Kong. He received his bachelor’s degrees in logistics engineering from Shanghai Maritime University in 2020 and earned his master’s degree in Management Science and Engineering from Tsinghua University in 2023. His research interests mainly include the fields of Data-driven optimization, Operations research, Urban mobility, Integer programming.
+Jiguang WANG is a Ph.D. student in traffic engineering at The University of Hong Kong. He received his bachelor’s degrees in logistics engineering from Shanghai Maritime University in 2020 and earned his master’s degree in Management Science and Engineering from Tsinghua University in 2023. His research interests mainly include the fields of Data-driven optimization, Operations research, Urban mobility, Integer programming.
 
 
 Education
@@ -29,7 +29,7 @@ Work experience
 ======
 * Jul. to Oct. 2021: Algorithm Engineer Intern
   * Huawei 2012 Laboratory 
-  * Duties included: Conduct research on traffic pattern identification and prediction.
+  * Duties included: Conduct research on traffic pattern recognition and prediction
 
 
 Publications
