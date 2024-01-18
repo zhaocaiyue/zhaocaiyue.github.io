@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autum-teaching-1
 venue: "University of HongKong, Department of Civil Engineering"
-date: 2023-10
+date: 2023-10-12
 location: "HongKong, China"
 ---
 
