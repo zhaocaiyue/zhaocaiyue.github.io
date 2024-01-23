@@ -19,8 +19,8 @@ main:
   - title: "Research"
     url: /research
     
-  - title: "CV"
-    url: /files/JiguangWang_2024_02.pdf
+  # - title: "CV"
+  #   url: /files/JiguangWang_2024_02.pdf
     
   # - title: "Guide"
   #   url: /markdown/
