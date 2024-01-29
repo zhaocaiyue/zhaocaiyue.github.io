@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Caiyue ZHAO is a Ph.D. student in electronic engineering at The Chinese University of Hong Kong. She received his bachelor’s degrees in logistics engineering from Shanghai Maritime University in 2020 and earned his master’s degree in Management Science and Engineering from Tsinghua University in 2023. His research interests mainly include the fields of Data-driven optimization, Operations research, Urban mobility, Integer programming.
+Caiyue ZHAO is a Ph.D. student in electronic engineering at The Chinese University of Hong Kong. She received her bachelor’s degrees in New energy materials and devices from Hefei University of Technology in 2020 and earned her master’s degree in Data science and information technology from Tsinghua University in 2023. Her research interests mainly include the fields of silicon photonics, integrated optics, optical computing.
 
 
 Education
@@ -26,10 +26,6 @@ Education
 
 * Hefei University of Technology, B.S. New energy materials and devices, 2020 
 
-Work experience
-======
-* Jul. to Oct. 2021: Algorithm Engineer Intern
-  * Huawei 2012 Laboratory 
-  * Duties included: Conduct research on traffic pattern recognition and prediction
+
 
 
