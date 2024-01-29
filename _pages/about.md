@@ -10,12 +10,12 @@ redirect_from:
 
 About me
 ======
-Caiyue ZHAO is a Ph.D. student in The Chinese University of Hong Kong. He received his bachelor’s degrees in logistics engineering from Shanghai Maritime University in 2020 and earned his master’s degree in Management Science and Engineering from Tsinghua University in 2023. His research interests mainly include the fields of Data-driven optimization, Operations research, Urban mobility, Integer programming.
+Caiyue ZHAO is a Ph.D. student in electronic engineering at The Chinese University of Hong Kong. She received his bachelor’s degrees in logistics engineering from Shanghai Maritime University in 2020 and earned his master’s degree in Management Science and Engineering from Tsinghua University in 2023. His research interests mainly include the fields of Data-driven optimization, Operations research, Urban mobility, Integer programming.
 
 
 Education
 ======
-* The University of Hong Kong, Department of Civil Engineering, PhD. Transportation Engineering, 2023-Present
+* The Chinese University of Hong Kong, Department of Civil Engineering, PhD. Transportation Engineering, 2023-Present
   
      Supervisor: Dr. Jintao Ke, University of Hong Kong         
 
