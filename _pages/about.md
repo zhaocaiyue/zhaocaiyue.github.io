@@ -15,15 +15,16 @@ Caiyue ZHAO is a Ph.D. student in electronic engineering at The Chinese Universi
 
 Education
 ======
-* The Chinese University of Hong Kong, Department of Civil Engineering, PhD. Transportation Engineering, 2023-Present
-  
-     Supervisor: Dr. Jintao Ke, University of Hong Kong         
 
-* Tsinghua University, Tsinghua Berkeley Shenzhen Institute, M.S. Management Science and Engineering, 2023
+* The Chinese University of Hong Kong, PhD. Electronic engineering, 2023-Present
   
-     Supervisor: Prof. Wai Kin (Victor) Chan, Tsinghua University 
+     Supervisor: Prof. Hon Ki TSANG, Chinese University of Hong Kong         
 
-* Shanghai Maritime University, School of Logistics Engineering, B.S. logistics engineering, 2020 
+* Tsinghua University, Tsinghua Berkeley Shenzhen Institute, M.S. Data science and information technology, 2023
+  
+     Supervisor: Prof. Hongyan Fu, Tsinghua University 
+
+* Hefei University of Technology, B.S. New energy materials and devices, 2020 
 
 Work experience
 ======
